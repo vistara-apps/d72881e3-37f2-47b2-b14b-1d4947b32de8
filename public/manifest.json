@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjkxNTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMmVmNzkwRGQ3OTkzQTM1ZkQ4NDdDMDUzRURkQUU5NDBEMDU1NTk2In0",
+    "payload": "eyJkb21haW4iOiJjcmVhdG9yc2hhcmUuYXBwIn0",
+    "signature": "MHgxMGQwZGU4ZGYwZDUwZTdmMGIxN2YxMTU2NDI1MjRmZTY0MTUyZGU4ZGU1MWU0MThiYjU4ZjVmZmQxYjRjNDBiNGVlZTRhNDcwNmVmNjhlMzQ0ZGQ5MDBkYmQyMmNlMmVlZGY5ZGQ0N2JlNWRmNzMwYzUxNjE4OWVjZDJjY2Y0MDFj"
+  },
+  "frame": {
+    "version": "1",
+    "name": "CreatorShare",
+    "homeUrl": "https://creatorshare.app",
+    "iconUrl": "https://creatorshare.app/icon.png",
+    "splashImageUrl": "https://creatorshare.app/splash.png",
+    "splashBackgroundColor": "#0a0f1c",
+    "webhookUrl": "https://creatorshare.app/api/webhook",
+    "subtitle": "Amplify your creativity with fair revenue sharing",
+    "description": "A Base MiniApp for creators to build communities, share revenue from their content, and remix existing creations with transparent blockchain-based revenue distribution.",
+    "screenshotUrls": [
+      "https://creatorshare.app/screenshot1.png",
+      "https://creatorshare.app/screenshot2.png",
+      "https://creatorshare.app/screenshot3.png"
+    ],
+    "primaryCategory": "social",
+    "tags": ["creator", "revenue", "remix", "collaboration", "base"],
+    "heroImageUrl": "https://creatorshare.app/hero.png",
+    "tagline": "Fair revenue sharing for creators",
+    "ogTitle": "CreatorShare - Amplify Your Creativity",
+    "ogDescription": "Build communities, share revenue, and remix content with transparent blockchain-based distribution.",
+    "ogImageUrl": "https://creatorshare.app/og.png"
+  }
+}
