@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "CreatorShare",
+    "subtitle": "Built with Zara",
+    "description": "CreatorShare is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://d72881e337f247b2b14b1d4947b32de8-lclz.vercel.app",
+    "splashImageUrl": "https://d72881e337f247b2b14b1d4947b32de8-lclz.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://d72881e337f247b2b14b1d4947b32de8-lclz.vercel.app/image.png",
+    "tagline": "CreatorShare",
+    "screenshotUrls": [
+      "https://d72881e337f247b2b14b1d4947b32de8-lclz.vercel.app/screenshot.png",
+      "https://d72881e337f247b2b14b1d4947b32de8-lclz.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://d72881e337f247b2b14b1d4947b32de8-lclz.vercel.app/api/webhook"
+  }
+}

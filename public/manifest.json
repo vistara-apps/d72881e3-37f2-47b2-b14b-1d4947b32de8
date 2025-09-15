@@ -20,7 +20,13 @@
       "https://creatorshare.app/screenshot3.png"
     ],
     "primaryCategory": "social",
-    "tags": ["creator", "revenue", "remix", "collaboration", "base"],
+    "tags": [
+      "creator",
+      "revenue",
+      "remix",
+      "collaboration",
+      "base"
+    ],
     "heroImageUrl": "https://creatorshare.app/hero.png",
     "tagline": "Fair revenue sharing for creators",
     "ogTitle": "CreatorShare - Amplify Your Creativity",
